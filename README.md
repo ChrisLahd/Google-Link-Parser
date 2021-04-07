@@ -1,9 +1,9 @@
+# google-link-parser
+A script made in Python2/3 to collect URL's found by keywords / ["dorks"](https://en.wikipedia.org/wiki/Google_hacking)
+<br>
 <p align="center">
  <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
  </p>
-
-# google-link-parser
-A script made in Python2/3 to collect URL's found by keywords / ["dorks"](https://en.wikipedia.org/wiki/Google_hacking)
 
 # Installation
 ```shell
