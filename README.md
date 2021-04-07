@@ -16,7 +16,7 @@ Running this script is performed as the following
 python3 main.py
 ```
 # Lisence
-<a href="LISENCE">GNU GENERAL PUBLIC LICENSE</a>
+<a href="LICENSE">GNU GENERAL PUBLIC LICENSE</a>
 
 # Feedback
 I am avaliable on Discord and Guilded.
