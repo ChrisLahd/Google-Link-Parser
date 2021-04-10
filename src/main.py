@@ -22,7 +22,7 @@ async def main():
 [\x1b[38;5;49m2\x1b[38;5;255m]: Preset URL queries\n''')
 
     # this checks to see if the main script is present in the dir of this script to make runtime work correctly.
-    if "google_spider.py" not in os.listdir():        
+    if "crawler" not in os.listdir():        
         slow("google_spider.py not in running dir.\r\n")
     else:
         try:
@@ -39,7 +39,7 @@ async def main():
                     input("\n(NOT WORKING) Enter Keyword / Query --> ")
                 
                 if x == "2":
-                    os.system("scrapy crawl google_spider.py")
+                    os.system("scrapy runspider google_spider.py")
 
         # this is a simple check to see if a keyboard interruption occurs. If so, then it will kill the process instead of throwing tracebacks and ignored exceptions.      
         except KeyboardInterrupt:

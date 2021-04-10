@@ -8,7 +8,7 @@ class firstSpider(scrapy.Spider):
   name = "basic" 
   start_urls = [ 
     # where "foobar" is placed in the next line, is where the keyword goes.
-    "https://www.google.com/search?q=foobar"
+    "https://www.google.com/search?q=test+page"
    ]
    
   def parse(self, response):
@@ -31,11 +31,11 @@ class firstSpider(scrapy.Spider):
       # where "or ''in" is mentioned in the next line is where filters can be made. in between '', place your desired output filter keyword.
       if len(str(link))>200 or ''in link.text:
         
-        print(len(str(link)),link+"\n")
+        #print(len(str(link)),link+"\n")
         link_list.append(link)
     
     for i in range(len(link_text)-len(text_list)):
     
       text_list.append(" ")
     df['links']=link_list
-    df.to_csv('output.csv')
+    df.to_csv('../output.csv')
