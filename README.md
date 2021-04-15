@@ -29,4 +29,4 @@ python3 main.py
 I am avaliable on Discord and Guilded.
 
 <p style="width: 32px; height: 32px; float: top;">
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-32.png"> ChrisLad#1194</img> <br> <img style="width: 32px; height: 32px;" src="repo-assets/guilded-favicon.png"> <a href="https://www.guilded.gg/profile/x4o9pWXm">ChrisLad</img>
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-32.png"> ChrisLad#9487</img> <br> <img style="width: 32px; height: 32px;" src="repo-assets/guilded-favicon.png"> <a href="https://www.guilded.gg/profile/x4o9pWXm">ChrisLad</img>
