@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Google Link Parser
+This is the official documentaion for the ["Google Link Parser"](https://github.com/ChrisLad1/google-link-parser/)
 
-You can use the [editor on GitHub](https://github.com/ChrisLad1/google-link-parser/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Documentation
+### How it works
+The Google Link Parser uses a Python module known as Scrapy, this is used to crawl results from queries a user gives it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Use Case
+Finding a bulk amount of a specific result, keep in mind that some things aren't on the parser yet due to Google security
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisLad1/google-link-parser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# License
+The Google Link Parser is issued under the GNU License with GitHub approval.
