@@ -1,5 +1,6 @@
-# Google Link Parser
+[![CodeFactor](https://www.codefactor.io/repository/github/chrislad1/google-link-parser/badge)](https://www.codefactor.io/repository/github/chrislad1/google-link-parser)
 
+# Google Link Parser
 A script made in Python2/3 to collect URL's found by keywords / ["dorks"](https://en.wikipedia.org/wiki/Google_hacking)
 
 <br>
