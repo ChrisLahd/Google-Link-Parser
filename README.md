@@ -22,7 +22,7 @@ python3 main.py
 
 ## Lisence
 
-<a href="LICENSE">GNU GENERAL PUBLIC LICENSE</a>
+<a href="LICENSE">GPL-3.0 License</a>
 
 ## Feedback
 
