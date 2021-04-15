@@ -1,4 +1,4 @@
-# google-link-parser
+# Google Link Parser
 
 A script made in Python2/3 to collect URL's found by keywords / ["dorks"](https://en.wikipedia.org/wiki/Google_hacking)
 
