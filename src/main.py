@@ -14,7 +14,7 @@ def slow(str):
 
 # function made asynchronous for efficiency.
 async def main():
-    
+    print(os.defpath)
     # the random strings you see are color codes that make the stdout highlight certain words / chars.
     print(f'''
 
@@ -22,8 +22,8 @@ async def main():
 [\x1b[38;5;49m2\x1b[38;5;255m]: Preset URL queries\n''')
 
     # this checks to see if the main script is present in the dir of this script to make runtime work correctly.
-    if "crawler" not in os.listdir():        
-        slow("google_spider.py not in running dir.\r\n")
+    if "google_spider.py" not in os.listdir("modules"):        
+        slow("Files are missing!.\r\n")
     else:
         try:
             slow("All Files \x1b[38;5;83mLocated!\x1b[38;5;255m")
@@ -39,7 +39,7 @@ async def main():
                     input("\n(NOT WORKING) Enter Keyword / Query --> ")
                 
                 if x == "2":
-                    os.system("scrapy runspider google_spider.py")
+                    os.system("scrapy runspider modules/google_spider.py")
 
         # this is a simple check to see if a keyboard interruption occurs. If so, then it will kill the process instead of throwing tracebacks and ignored exceptions.      
         except KeyboardInterrupt:

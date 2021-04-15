@@ -4,9 +4,13 @@
 
 Here is the google link parsers security protection throughout the versions reported 
 
+<br>
+
 | Version | Supported          |
 | ------- | ------------------ |
 | v0.1.0  | :white_check_mark: |
+
+<br>
 
 ## Reporting a Vulnerability
 
