@@ -10,4 +10,4 @@ Here is the google link parsers security protection throughout the versions repo
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability in the code regarding exploitation of google in any way, please report it to me using the contact me options [here]("README.md")
+If you find a vulnerability in the code regarding exploitation of google in any way, please report it to me using the contact me options [here](README.md)
