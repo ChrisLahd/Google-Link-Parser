@@ -3,7 +3,10 @@
 # LEGAL: Any third party profit made by this project can be used as a 
 # legal defense / offense if neccessary.
 
-import os, sys, time, asyncio
+import os
+import sys
+import time
+import asyncio
 
 # slow typing function meant for aesthetic pleasure.
 def slow(str):
